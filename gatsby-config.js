@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `JP-Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Johann Pibert`,
+      summary: `der gerne auf Konzerte geht.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Ein super duper Blog, der Spaß macht.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `kylemathews`
